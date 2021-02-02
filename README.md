@@ -5,7 +5,7 @@
 During any virus outbreak, the governments are supposed to constantly look at the new hotspots, mortality rates, etc of different states to aid the states with necessary equipment and help. To do so, the officials must get correct and reliable statistics immediately.
 We are supposed to create an API server that performs some aggregation tasks on the Covid data. This data is stored in the MongoDB server.
 
-Acceptance Criteria
+Criteria :
 
 We are supposed to expose our server at 5 endpoints.
 GET localhost:8080/totalRecovered
